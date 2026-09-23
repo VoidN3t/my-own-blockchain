@@ -1,0 +1,23 @@
+# PyCharm
+.idea/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments (Ambienti virtuali)
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs e database locali
+*.log
+*.sqlite3
